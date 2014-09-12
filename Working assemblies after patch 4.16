@@ -12,7 +12,6 @@ this crashes with Jinx skillshots aswell, be careful
 -TongHop
 -Irelia xQx
 -Swain xQx
--Vi xQx
 -Katarina TC-Crew 
 -TriKatarina
 -Fisherman Fizz
@@ -47,6 +46,7 @@ this crashes with Jinx skillshots aswell, be careful
 -kKayle
 -Irelia
 -Orianna
+-Vi xQx -- Bugsplat on inject
 
 Champs with many skillshots bugsplat alot
 Yasuo scripts may not load
